@@ -1,5 +1,6 @@
 Configure your Git with your name and email.
 #Commands: 
+
 ![image](https://github.com/user-attachments/assets/d1b09f98-5859-4d47-b970-9246820df1a3)
 
 Clone the project repository from GitHub. 
