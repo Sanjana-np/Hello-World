@@ -40,6 +40,7 @@ Remove the feature.py file from your branch.
 
 Commit the removal of the file and push the changes. 
 #Commands: 
+
 ![image](https://github.com/user-attachments/assets/36105f93-91fe-42db-abb6-44409449355b)
 
 
